@@ -8,11 +8,39 @@
 
 #title {
   margin-top: 20px;
+  margin-bottom: 35px;
 }
 
 #brad-image {
-  width: 50%;
-  height: 50%;
+  width: 35%;
+  height: 35%;
+  border-radius: 5px;
+}
+
+#previous-work-header {
+  margin-top: 70px;
+  margin-bottom: 35px;
+}
+
+#applitrak-image {
+  width: 75%;
+  height: 75%;
+  margin: auto;
+  margin-bottom: 35px;
+}
+
+#skilletshaker-image {
+  width: 75%;
+  height: 75%;
+  margin: auto;
+  margin-bottom: 35px;
+}
+
+#weather-image {
+  width: 75%;
+  height: 75%;
+  margin: auto;
+  margin-bottom: 35px;
 }
 
 @keyframes fadeIn {
