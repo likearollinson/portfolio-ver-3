@@ -5,6 +5,16 @@
   -o-animation: fadeIn 5s;
   -ms-animation: fadeIn 5s;
 }
+
+#title {
+  margin-top: 20px;
+}
+
+#brad-image {
+  width: 50%;
+  height: 50%;
+}
+
 @keyframes fadeIn {
   0% {
     opacity: 0;
